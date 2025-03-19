@@ -1,0 +1,26 @@
+p
+{
+    font-family: "trebuchet MS",Arial, Helvetica, sans-serif;
+}
+p
+{
+    width: 350px;
+    border: 1px solid black;
+    text-align: justify;
+}
+p
+{
+    width: 350px;
+    margin: auto;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px;
+    margin-bottom: 20px;    
+}
+p
+{
+    width: 250px;
+    height: 110px;
+    border: 1px solid black;
+    text-align: justify;
+}
